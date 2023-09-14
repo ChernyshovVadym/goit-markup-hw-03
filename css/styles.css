@@ -1,10 +1,16 @@
-* body {
+/* Base */
+* {
+    box-sizing: border-box;
+}
+
+
+body {
     color: #434455;
     background-color: #ffffff;
     font-family: "Roboto", sans-serif;
 }
 
-/* Global */
+
 a {
     text-decoration: none;
 }
