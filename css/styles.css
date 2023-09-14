@@ -19,8 +19,9 @@ button {
 
 
 .section-header {
+    width: 1440px;
     border: 4px solid var(--c-brand);
-
+    padding: 25.5px;
 }
 
 
