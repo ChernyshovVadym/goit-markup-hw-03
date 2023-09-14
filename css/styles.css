@@ -17,6 +17,13 @@ button {
     font-family: inherit;
 }
 
+
+.section-header {
+    border: 4px solid var(--c-brand);
+
+}
+
+
 .logo {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
