@@ -1,4 +1,4 @@
-body {
+* body {
     color: #434455;
     background-color: #ffffff;
     font-family: "Roboto", sans-serif;
@@ -23,7 +23,7 @@ button {
     height: 72px;
     border: 4px solid var(--c-brand);
     padding: 24px;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 
