@@ -260,6 +260,10 @@ button {
     border-radius: 0px 0px 4px 4px;
 }
 
+.img {
+    display: block;
+}
+
 .description {
     padding-top: 32px;
     padding-bottom: 32px;
