@@ -256,6 +256,13 @@ button {
 
 .color-class {
     background: #FFF;
+    border-radius: 0px 0px 4px 4px;
+}
+
+.description {
+    padding-top: 32px;
+    padding-bottom: 32px;
+
 }
 
 
