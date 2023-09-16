@@ -41,12 +41,8 @@ button {
     border-bottom: 1px solid #e7e9fc
 }
 
-.flex-header {
-    display: flex;
-}
 
-
-. .logo {
+.logo {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
