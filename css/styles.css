@@ -188,6 +188,8 @@ button {
 
 }
 
+.visually-hidden {}
+
 .soft-skils {
     color: #2E2F42;
     /* Header 3 */
@@ -199,6 +201,7 @@ button {
     /* 120% */
     letter-spacing: 0.4px;
     margin-bottom: 8px;
+
 }
 
 .class-info {
