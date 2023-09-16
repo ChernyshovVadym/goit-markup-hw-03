@@ -42,8 +42,9 @@ button {
 }
 
 
-.flex-header {
+.container-header {
     display: flex;
+    width: 1158px;
 }
 
 
