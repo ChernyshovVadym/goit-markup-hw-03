@@ -93,6 +93,8 @@ button {
     line-height: 24px;
     /* 150% */
     letter-spacing: 0.32px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .nav-link:hover,
@@ -103,6 +105,11 @@ button {
 
 .address {
     font-style: normal;
+}
+
+.list-address {
+    display: flex;
+    gap: 40px;
 }
 
 
