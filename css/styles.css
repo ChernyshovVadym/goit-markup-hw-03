@@ -209,7 +209,7 @@ button {
 }
 
 .list-info {
-    flex: basis calc((100% - 72px) / 4);
+    flex-basis: 7;
 }
 
 .soft-skils-information {
