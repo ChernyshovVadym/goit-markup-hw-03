@@ -188,8 +188,6 @@ button {
 
 }
 
-.visually-hidden {}
-
 .soft-skils {
     color: #2E2F42;
     /* Header 3 */
@@ -202,6 +200,7 @@ button {
     letter-spacing: 0.4px;
     margin-bottom: 8px;
 
+
 }
 
 .class-info {
@@ -210,7 +209,7 @@ button {
 }
 
 .list-info {
-    flex: basis 7;
+    flex: basis calc((100% - 72px) / 4);
 }
 
 .soft-skils-information {
