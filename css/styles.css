@@ -35,7 +35,6 @@ button {
 
 
 .section-header {
-    display: flex;
     width: 1440px;
     border: 4px solid var(--c-brand);
     padding: 24px;
@@ -44,7 +43,9 @@ button {
 
 
 .container {
+    display: flex;
     width: 1158px;
+    margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
 }
