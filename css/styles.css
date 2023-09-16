@@ -132,9 +132,15 @@ button {
 
 
 /* Hero section */
+
+.container {}
+
 .hero-section {
     background: #2e2f42;
     /* TODO changes background color */
+    padding-top: 188px;
+    padding-bottom: 188px;
+
 }
 
 .hero-title {
