@@ -181,6 +181,13 @@ button {
 }
 
 /* Soft Skils section */
+
+.information {
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+}
+
 .soft-skils {
     color: #2E2F42;
     /* Header 3 */
