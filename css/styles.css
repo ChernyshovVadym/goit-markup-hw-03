@@ -50,6 +50,11 @@ button {
     padding-right: 15px;
 }
 
+.section-nav {
+    display: flex;
+    align-items: center;
+}
+
 
 .logo {
     color: #4d5ae5;
