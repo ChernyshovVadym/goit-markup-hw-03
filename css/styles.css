@@ -246,7 +246,7 @@ button {
     letter-spacing: 0.72px;
     text-transform: capitalize;
     margin-bottom: 72px;
-    margin-bottom: 8px;
+    margin-bottom: 72px;
 }
 
 .specialists {
@@ -279,6 +279,7 @@ button {
     line-height: 24px;
     /* 120% */
     letter-spacing: 0.4px;
+    margin-bottom: 8px;
 }
 
 .job-title {
